@@ -1,0 +1,8 @@
+streamlit
+groq
+qdrant-client
+sentence-transformers
+pandas
+openpyxl
+python-dotenv
+torch
